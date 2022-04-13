@@ -5,7 +5,7 @@ class AppWidget extends StatelessWidget {
   Widget build(BuildContext context){
     return MaterialApp.router(
       title: 'My Smart App',
-      theme: ThemeData(primarySwatch: Colors.red),
+      theme: ThemeData(primarySwatch: Colors.red,fontFamily: 'Poppins'),
       routeInformationParser: Modular.routeInformationParser,
       routerDelegate: Modular.routerDelegate,
     ); //added by extension
