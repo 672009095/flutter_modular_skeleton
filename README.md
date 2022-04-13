@@ -1,4 +1,4 @@
-# modular_clean
+# Flutter modular skeleton
 
 Skeleton Project for make flutter application use modular flutter + triple architecture.
 
